@@ -14,5 +14,5 @@
     </a>
   </div>
 
-  <p>Evoluindo 🚀</p>
+  <h4><i>Evoluindo 🚀</i></h4>
 </div>
