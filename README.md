@@ -16,5 +16,11 @@
 
   <h4><i>Evoluindo 🚀</i></h4>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrocha444)
+  <div>
+  
+  ![](https://raw.githubusercontent.com/rodrocha444/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+  
+  ![](https://raw.githubusercontent.com/rodrocha444/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  
+  </div>
 </div>
