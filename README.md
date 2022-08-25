@@ -1,11 +1,11 @@
-<div align="center">
-  <a href="https://www.instagram.com/rodrigo_roch.a/">
+<div align="center" >
+  <a href="https://www.instagram.com/rodrigo_roch.a/" style="text-decoration: none;">
     <img src="https://i.ibb.co/1zNNhtn/insta-logo.png" alt="My Insta" height="32">
   </a>
-  <a href="https://www.linkedin.com/in/f-rodrigo-rocha/">
+  <a href="https://www.linkedin.com/in/f-rodrigo-rocha/" style="text-decoration: none;">
     <img src="https://i.ibb.co/fN6SKs1/linkedin-logo.png" alt="My Linkedin" height="32">
   </a>
-  <a href="https://wa.me/5588996850205">
+  <a href="https://wa.me/5588996850205" style="text-decoration: none;">
     <img src="https://i.ibb.co/8ddxj3c/whatsapp-logo.png" alt="My Whatsapp" height="32">
   </a>
 </div>
