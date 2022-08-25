@@ -15,4 +15,6 @@
   </div>
 
   <h4><i>Evoluindo 🚀</i></h4>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrocha444)](https://github.com/anuraghazra/github-readme-stats)
 </div>
