@@ -1,4 +1,4 @@
-<header align="center" style="display:flex; gap:10px;">
+<header align="center">
   <a href="https://www.instagram.com/rodrigo_roch.a/">
     <img src="https://i.ibb.co/1zNNhtn/insta-logo.png" alt="My Insta" height="32">
   </a>
