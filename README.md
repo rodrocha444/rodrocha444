@@ -14,6 +14,10 @@
 <h1>Principais projetos públicos</h1>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrocha444&repo=dados-dos-paises&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrocha444&repo=brainny-project&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrocha444&repo=desafio-01-rocketseat&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrocha444&repo=desafio-02-rocketseat&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+  
 
   <h4><i>Evoluindo 🚀</i></h4>
 </div>
