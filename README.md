@@ -8,8 +8,8 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrocha444&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrocha444&layout=donut&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrocha444&show_icons=true&theme=gotham)](https://github.com/rodrocha444/rodrocha444)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrocha444&layout=donut&theme=gotham)](https://github.com/rodrocha444/rodrocha444)
 
 <h1>Principais projetos públicos</h1>
 
