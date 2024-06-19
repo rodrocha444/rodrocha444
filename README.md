@@ -4,6 +4,7 @@
     <li>Whatsapp: https://wa.me/5588996850205</li>
     <li>Linkedin: https://www.linkedin.com/in/f-rodrigo-rocha/</li>
     <li>Gitlab: https://gitlab.com/rodrocha444</li>
+    <li>Portfólio: https://rodrigo444.com.br</li>
   </ul>
 
 
